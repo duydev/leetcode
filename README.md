@@ -19,6 +19,7 @@ This project is designed to:
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](src/problems/0001-two-sum/index.ts) | [Test](src/problems/0001-two-sum/index.test.ts) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Solution](src/problems/0009-palindrome-number/index.ts) | [Test](src/problems/0009-palindrome-number/index.test.ts) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Solution](src/problems/0013-roman-to-integer/index.ts) | [Test](src/problems/0013-roman-to-integer/index.test.ts) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](src/problems/0020-valid-parentheses/index.ts) | [Test](src/problems/0020-valid-parentheses/index.test.ts) |
 
 ## Project Structure
 
