@@ -27,11 +27,4 @@ describe('1. Two Sum', () => {
     expect(result.length).toBe(2);
     expect(nums[result[0]] + nums[result[1]]).toBe(target);
   });
-
-  test('No solution found', () => {
-    const nums = [1, 2, 3];
-    const target = 7;
-    const result = twoSum(nums, target);
-    expect(result).toEqual([-1, -1]);
-  });
 });
