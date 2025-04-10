@@ -20,7 +20,7 @@ This project is designed to:
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Solution](src/problems/0009-palindrome-number/index.ts) | [Test](src/problems/0009-palindrome-number/index.test.ts) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Solution](src/problems/0013-roman-to-integer/index.ts) | [Test](src/problems/0013-roman-to-integer/index.test.ts) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](src/problems/0020-valid-parentheses/index.ts) | [Test](src/problems/0020-valid-parentheses/index.test.ts) |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Solution](src/problems/0026-remove-duplicates-from-sorted-array/index.ts) (TODO) | [Test](src/problems/0026-remove-duplicates-from-sorted-array/index.test.ts) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Solution](src/problems/0026-remove-duplicates-from-sorted-array/index.ts) | [Test](src/problems/0026-remove-duplicates-from-sorted-array/index.test.ts) |
 
 ## Project Structure
 
