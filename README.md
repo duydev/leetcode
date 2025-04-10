@@ -1,6 +1,6 @@
 # LeetCode Solutions in TypeScript
 
-[![Run Tests](https://github.com/duydev/leetcode/actions/workflows/test.yml/badge.svg)](https://github.com/duydev/leetcode/actions/workflows/test.yml)
+[![Run Tests](https://github.com/duydev/leetcode/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/duydev/leetcode/actions/workflows/test.yml)
 
 This repository contains solutions to LeetCode problems implemented in TypeScript with automated testing.
 
